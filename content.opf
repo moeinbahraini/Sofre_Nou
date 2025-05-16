@@ -2,12 +2,11 @@
 <package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<meta name="generator" content="Adobe InDesign 20.2" />
-		<meta name="cover" content="x1.png" />
 		<meta property="ibooks:specified-fonts">true</meta>
-		<dc:title>Digital Catalog (1)</dc:title>
-		<dc:date>2025-05-16T13:24:48Z</dc:date>
+		<dc:title>Sofre_Nou</dc:title>
+		<dc:date>2025-05-16T16:42:12Z</dc:date>
 		<dc:language>en</dc:language>
-		<meta property="dcterms:modified">2025-05-16T13:24:48Z</meta>
+		<meta property="dcterms:modified">2025-05-16T16:42:12Z</meta>
 		<dc:identifier id="bookid">urn:uuid:f5b4fb7b-9aad-40e1-96e2-b84de7b99255</dc:identifier>
 		<!--fixed-layout options-->
 		<meta property="rendition:layout">pre-paginated</meta>
@@ -26,7 +25,7 @@
 		<item id="Digital_Catalog_-1--8" href="Digital_Catalog_%281%29-8.xhtml" media-type="application/xhtml+xml" properties="scripted" />
 		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
 		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
-		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" />
 		<item id="x10.png" href="image/10.png" media-type="image/png" />
 		<item id="x100.png" href="image/100.png" media-type="image/png" />
 		<item id="x101.png" href="image/101.png" media-type="image/png" />
@@ -40,7 +39,7 @@
 		<item id="x109.png" href="image/109.png" media-type="image/png" />
 		<item id="x11.png" href="image/11.png" media-type="image/png" />
 		<item id="x110.png" href="image/110.png" media-type="image/png" />
-		<item id="x111.png" href="image/111.png" media-type="image/png" />
+		<item id="x115.png" href="image/115.png" media-type="image/png" />
 		<item id="x116.png" href="image/116.png" media-type="image/png" />
 		<item id="x117.png" href="image/117.png" media-type="image/png" />
 		<item id="x118.png" href="image/118.png" media-type="image/png" />
@@ -51,7 +50,6 @@
 		<item id="x122.png" href="image/122.png" media-type="image/png" />
 		<item id="x123.png" href="image/123.png" media-type="image/png" />
 		<item id="x124.png" href="image/124.png" media-type="image/png" />
-		<item id="x125.png" href="image/125.png" media-type="image/png" />
 		<item id="x13.png" href="image/13.png" media-type="image/png" />
 		<item id="x14.png" href="image/14.png" media-type="image/png" />
 		<item id="x15.png" href="image/15.png" media-type="image/png" />
@@ -150,6 +148,7 @@
 		<item id="Location.png" href="image/Location.png" media-type="image/png" />
 		<item id="Logo.jpg" href="image/Logo.jpg" media-type="image/jpeg" />
 		<item id="Mail.png" href="image/Mail.png" media-type="image/png" />
+		<item id="Next.png" href="image/Next.png" media-type="image/png" />
 		<item id="Page_1_-Background-.jpg" href="image/Page_1_%28Background%29.jpg" media-type="image/jpeg" />
 		<item id="Page_1_-Forg-.png" href="image/Page_1_%28Forg%29.png" media-type="image/png" />
 		<item id="Page_1_-Kebab-.png" href="image/Page_1_%28Kebab%29.png" media-type="image/png" />
@@ -180,6 +179,7 @@
 		<item id="Page_7_-Background-.png" href="image/Page_7_%28Background%29.png" media-type="image/png" />
 		<item id="Page_8_-Background-.png" href="image/Page_8_%28Background%29.png" media-type="image/png" />
 		<item id="Page_8_-Plate-.png" href="image/Page_8_%28Plate%29.png" media-type="image/png" />
+		<item id="Preview.png" href="image/Preview.png" media-type="image/png" />
 		<item id="Telegram.png" href="image/Telegram.png" media-type="image/png" />
 		<item id="Web.png" href="image/Web.png" media-type="image/png" />
 		<item id="Whatsup.png" href="image/Whatsup.png" media-type="image/png" />

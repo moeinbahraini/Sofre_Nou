@@ -291,6 +291,9 @@ myMedia.currentTime = time;
 myMedia.play();
 }
 }
+function goToDestination(ref) {
+window.location.href = ref;
+}
 function handleMediaInMSOState(element) {
 /*This function is used to stop playing media present in current state when we move from current state to another state.*/
 var descendants = element.getElementsByTagName('*');
