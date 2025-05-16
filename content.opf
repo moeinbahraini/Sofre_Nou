@@ -3,10 +3,10 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<meta name="generator" content="Adobe InDesign 20.2" />
 		<meta property="ibooks:specified-fonts">true</meta>
-		<dc:title>Sofre_Nou</dc:title>
-		<dc:date>2025-05-16T16:42:12Z</dc:date>
+		<dc:title>Digital Catalog (1)</dc:title>
+		<dc:date>2025-05-16T23:09:03Z</dc:date>
 		<dc:language>en</dc:language>
-		<meta property="dcterms:modified">2025-05-16T16:42:12Z</meta>
+		<meta property="dcterms:modified">2025-05-16T23:09:03Z</meta>
 		<dc:identifier id="bookid">urn:uuid:f5b4fb7b-9aad-40e1-96e2-b84de7b99255</dc:identifier>
 		<!--fixed-layout options-->
 		<meta property="rendition:layout">pre-paginated</meta>
@@ -160,12 +160,12 @@
 		<item id="Page_2_-Pop-Up-1.png" href="image/Page_2_%28Pop-Up%291.png" media-type="image/png" />
 		<item id="Page_2_-Salad_Sezar-.png" href="image/Page_2_%28Salad_Sezar%29.png" media-type="image/png" />
 		<item id="Page_2_-Soup-.png" href="image/Page_2_%28Soup%29.png" media-type="image/png" />
-		<item id="Page_3_-Background-.png" href="image/Page_3_%28Background%29.png" media-type="image/png" />
+		<item id="Page_3_-Background-.jpg" href="image/Page_3_%28Background%29.jpg" media-type="image/jpeg" />
 		<item id="Page_3_-Beef_Steak-.png" href="image/Page_3_%28Beef_Steak%29.png" media-type="image/png" />
 		<item id="Page_3_-Burger-.png" href="image/Page_3_%28Burger%29.png" media-type="image/png" />
 		<item id="Page_3_-Pasta-.png" href="image/Page_3_%28Pasta%29.png" media-type="image/png" />
 		<item id="Page_3_-Soltani_Kebab-.png" href="image/Page_3_%28Soltani_Kebab%29.png" media-type="image/png" />
-		<item id="Page_4_-Background-.png" href="image/Page_4_%28Background%29.png" media-type="image/png" />
+		<item id="Page_4_-Background-.jpg" href="image/Page_4_%28Background%29.jpg" media-type="image/jpeg" />
 		<item id="Page_4_-Cheesecake_with_butter_biscuits-.png" href="image/Page_4_%28Cheesecake_with_butter_biscuits%29.png" media-type="image/png" />
 		<item id="Page_4_-Chocolate_brownie_with_ice_cream-.png" href="image/Page_4_%28Chocolate_brownie_with_ice_cream%29.png" media-type="image/png" />
 		<item id="Page_4_-Homemade_tiramisu-.png" href="image/Page_4_%28Homemade_tiramisu%29.png" media-type="image/png" />
